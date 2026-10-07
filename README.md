@@ -2,6 +2,8 @@
 
 Windows executable for the ATS Mini Hamlib bridge. Source is private.
 
+**Win32 download:** [atsmini-bridge-1-win32.exe](https://github.com/wzx72jdfd8-sketch/atsmini-bridge/releases/download/v1/atsmini-bridge-1-win32.exe)
+
 **User guide:** [ATS-Mini-WSJT-X-Proxy-1-User-Guide.pdf](https://github.com/wzx72jdfd8-sketch/atsmini-bridge/releases/download/v1/ATS-Mini-WSJT-X-Proxy-1-User-Guide.pdf)
 
 **Download:** [atsmini-bridge-1.exe](https://github.com/wzx72jdfd8-sketch/atsmini-bridge/releases/download/v1/atsmini-bridge-1.exe)
